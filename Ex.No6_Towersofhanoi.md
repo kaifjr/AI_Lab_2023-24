@@ -1,6 +1,6 @@
 # Ex.No: 6   Logic Programming – Towers of Hanoi problem 
-### NAME : AADHITHYA D                                                              
-### REGISTER NUMBER : 212222220001
+### NAME : MOHAMED KAIF P                                                              
+### REGISTER NUMBER : 21222043004
 ### AIM: 
 To  write  a logic program  to solve Towers of Hanoi problem  using SWI-PROLOG. 
 ### Algorithm:
