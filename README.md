@@ -1,7 +1,7 @@
 
 # Ex.No: 1  Implementation of Breadth First Search 
-### NAME : AADHITHYA D                                                                   
-### REGISTER NUMBER : 212222220001
+### NAME : KAIF MOHAMED P                                                                   
+### REGISTER NUMBER : 212222043004
 ### AIM: 
 To write a python program to implement Breadth first Search. 
 ### Algorithm:
